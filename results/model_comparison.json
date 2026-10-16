@@ -1,0 +1,38 @@
+[
+  {
+    "model": "SimpleRNN",
+    "best_validation_loss": 5.7323832511901855,
+    "validation_accuracy": 0.12271900475025177,
+    "perplexity": 308.7041118132396,
+    "training_time_seconds": 63.14605402946472,
+    "epochs_completed": 7,
+    "model_path": "models\\simplernn.keras"
+  },
+  {
+    "model": "BiRNN",
+    "best_validation_loss": 5.938150405883789,
+    "validation_accuracy": 0.09713425487279892,
+    "perplexity": 379.2328536058319,
+    "training_time_seconds": 71.06244993209839,
+    "epochs_completed": 5,
+    "model_path": "models\\birnn.keras"
+  },
+  {
+    "model": "LSTM",
+    "best_validation_loss": 5.781053066253662,
+    "validation_accuracy": 0.12478835880756378,
+    "perplexity": 324.10030987415473,
+    "training_time_seconds": 236.31374168395996,
+    "epochs_completed": 10,
+    "model_path": "models\\lstm.keras"
+  },
+  {
+    "model": "GRU",
+    "best_validation_loss": 5.682950973510742,
+    "validation_accuracy": 0.13375556468963623,
+    "perplexity": 293.8151927235123,
+    "training_time_seconds": 149.56581497192383,
+    "epochs_completed": 8,
+    "model_path": "models\\gru.keras"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "sequence_length": 25,
+  "raw_characters": 448657,
+  "cleaned_characters": 427636,
+  "total_tokens": 79759,
+  "vocabulary_size": 6914,
+  "training_sequences": 79734
+}
